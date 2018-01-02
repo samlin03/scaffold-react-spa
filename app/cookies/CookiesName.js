@@ -1,0 +1,1 @@
+export const USERID = 'USER_ID';
